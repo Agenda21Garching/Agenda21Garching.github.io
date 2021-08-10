@@ -5,6 +5,7 @@
     <link>https://agenda21garching.github.io/tags/</link>
     <description>Recent content in Tags on Klimastammtisch Garching</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://agenda21garching.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Philipp Bauer, created with hugo and github pages</copyright><atom:link href="https://agenda21garching.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
