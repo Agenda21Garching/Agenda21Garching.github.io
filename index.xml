@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agenda 21 Garching</title>
+    <title>Agenda 21 Garching 1</title>
     <link>https://agenda21garching.github.io/</link>
-    <description>Recent content on Agenda 21 Garching</description>
+    <description>Recent content on Agenda 21 Garching 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Philipp Bauer, created with hugo and github pages</copyright><atom:link href="https://agenda21garching.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Philipp Bauer, created with hugo and github pages</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 14:16:02 +0200</lastBuildDate><atom:link href="https://agenda21garching.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photovoltaik</title>
+      <link>https://agenda21garching.github.io/facts/photovoltaik/</link>
+      <pubDate>Fri, 08 Apr 2022 14:16:02 +0200</pubDate>
+      
+      <guid>https://agenda21garching.github.io/facts/photovoltaik/</guid>
+      <description>Die Leistung von PV Anlagen wird in kilowatt peak (kWp) angegeben.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://agenda21garching.github.io/about/</link>
