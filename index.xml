@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Klimastammtisch Garching</title>
+    <title>Agenda 21 Garching</title>
     <link>https://agenda21garching.github.io/</link>
-    <description>Recent content on Klimastammtisch Garching</description>
+    <description>Recent content on Agenda 21 Garching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Philipp Bauer, created with hugo and github pages</copyright><atom:link href="https://agenda21garching.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://agenda21garching.github.io/about/</link>
+      <pubDate>Tue, 10 Aug 2021 21:34:48 +0200</pubDate>
+      
+      <guid>https://agenda21garching.github.io/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
