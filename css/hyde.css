@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 0.5rem 0.5rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 14rem;
   }
 
   footer {
@@ -135,7 +135,7 @@ footer {
 @media (min-width: 48em) {
   .content {
     max-width: 40rem;
-    margin-left: 20rem;
+    margin-left: 18rem;
     margin-right: 2rem;
     margin-bottom: -40px;
     min-height: 100%;
@@ -143,7 +143,7 @@ footer {
 }
 
 .img-circle {
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 .img-headshot {
@@ -159,7 +159,7 @@ footer {
 }
 
 .sidebar {
-  background-color: #49757a;
+  background-color: #009898;
   color: #fff;
 }
 
