@@ -6,44 +6,7 @@
     <description>Recent content on Agenda 21 Garching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>© Philipp Bauer, created with hugo and github pages</copyright>
-    <lastBuildDate>Sun, 10 Apr 2022 19:10:44 +0200</lastBuildDate><atom:link href="https://agenda21garching.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dokumente</title>
-      <link>https://agenda21garching.github.io/archive/dokumente/dokumente/</link>
-      <pubDate>Sun, 10 Apr 2022 19:10:44 +0200</pubDate>
-      
-      <guid>https://agenda21garching.github.io/archive/dokumente/dokumente/</guid>
-      <description>sdfsdfd</description>
-    </item>
-    
-    <item>
-      <title>Veranstaltungen</title>
-      <link>https://agenda21garching.github.io/archive/veranstaltungen/veranstaltungen/</link>
-      <pubDate>Sun, 10 Apr 2022 18:22:52 +0200</pubDate>
-      
-      <guid>https://agenda21garching.github.io/archive/veranstaltungen/veranstaltungen/</guid>
-      <description>veranstaltungen und so</description>
-    </item>
-    
-    <item>
-      <title>Photovoltaik</title>
-      <link>https://agenda21garching.github.io/facts/photovoltaik/</link>
-      <pubDate>Fri, 08 Apr 2022 16:09:30 +0200</pubDate>
-      
-      <guid>https://agenda21garching.github.io/facts/photovoltaik/</guid>
-      <description>Some PV Facts</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://agenda21garching.github.io/about/</link>
-      <pubDate>Tue, 10 Aug 2021 21:34:48 +0200</pubDate>
-      
-      <guid>https://agenda21garching.github.io/about/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>© Philipp Bauer, created with hugo and github pages</copyright><atom:link href="https://agenda21garching.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aktionen</title>
       <link>https://agenda21garching.github.io/archive/aktionen/</link>
@@ -51,6 +14,72 @@
       
       <guid>https://agenda21garching.github.io/archive/aktionen/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Dokumente</title>
+      <link>https://agenda21garching.github.io/archive/dokumente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/archive/dokumente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://agenda21garching.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/impressum/</guid>
+      <description>ImpressumAngaben gemäß § 5 TMG
+Agenda 21 Garching
+ Vertreten durch:</description>
+    </item>
+    
+    <item>
+      <title>Photovoltaik</title>
+      <link>https://agenda21garching.github.io/datenundfakten/photovoltaik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/datenundfakten/photovoltaik/</guid>
+      <description>Seite befindet sich noch im Aufbau.</description>
+    </item>
+    
+    <item>
+      <title>Veranstaltungen</title>
+      <link>https://agenda21garching.github.io/archive/veranstaltungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/archive/veranstaltungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windkraft</title>
+      <link>https://agenda21garching.github.io/datenundfakten/windkraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/datenundfakten/windkraft/</guid>
+      <description>Seite befindet sich noch im Aufbau.</description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://agenda21garching.github.io/ueberuns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/ueberuns/</guid>
+      <description>Die Agenda 21 ist eine unparteiliche Gruppe ehrenamtlich tätiger Bürger*innen die sich für die Energiewende in Garching einsetzen.</description>
+    </item>
+    
+    <item>
+      <title>Übersicht zu Energieverbrauch und Energieproduktion in Garching</title>
+      <link>https://agenda21garching.github.io/datenundfakten/garching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/datenundfakten/garching/</guid>
+      <description>
+Seite befindet sich noch im Aufbau</description>
     </item>
     
   </channel>

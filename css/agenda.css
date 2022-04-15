@@ -2,3 +2,25 @@
     border: 6px solid #fff;
     width: 95%;
 }
+
+.archive-list li {
+    margin-bottom: 0.5rem;
+}
+
+.sidebar-nav ul{
+    margin-bottom: 0.5rem;
+}
+
+.withBottomMargin {
+    margin-bottom: 1.0rem;
+}
+
+.sidebar-nav li:hover
+{
+    background-color: #0b302c;
+}
+
+
+.sub-menu li{
+    margin-bottom: 0rem;
+}

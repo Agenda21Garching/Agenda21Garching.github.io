@@ -1,0 +1,51 @@
+.entry_with_dropdown {
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #009898;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    left: 50%;
+    z-index: 5;
+}
+
+.dropdown-content ul{
+    margin: 0rem;
+    padding: 0rem;
+    list-style-type:none
+}
+
+.dropdown-content ul li{
+    margin-bottom: 0.5rem;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .entry_with_dropdown {
+    background-color: #0b302c;
+}
+
+

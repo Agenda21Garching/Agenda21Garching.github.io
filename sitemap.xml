@@ -2,32 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agenda21garching.github.io/archive/</loc>
-    <lastmod>2022-04-10T19:10:44+02:00</lastmod>
-    <priority>0</priority>
-  </url><url>
     <loc>https://agenda21garching.github.io/</loc>
-    <lastmod>2022-04-10T19:10:44+02:00</lastmod>
-  </url><url>
-    <loc>https://agenda21garching.github.io/archive/dokumente/dokumente/</loc>
-    <lastmod>2022-04-10T19:10:44+02:00</lastmod>
-  </url><url>
-    <loc>https://agenda21garching.github.io/archive/veranstaltungen/veranstaltungen/</loc>
-    <lastmod>2022-04-10T18:22:52+02:00</lastmod>
-  </url><url>
-    <loc>https://agenda21garching.github.io/facts/</loc>
-    <lastmod>2022-04-08T16:09:30+02:00</lastmod>
-  </url><url>
-    <loc>https://agenda21garching.github.io/facts/photovoltaik/</loc>
-    <lastmod>2022-04-08T16:09:30+02:00</lastmod>
-  </url><url>
-    <loc>https://agenda21garching.github.io/about/</loc>
-    <lastmod>2021-08-10T21:34:48+02:00</lastmod>
   </url><url>
     <loc>https://agenda21garching.github.io/archive/aktionen/</loc>
   </url><url>
+    <loc>https://agenda21garching.github.io/archive/</loc>
+  </url><url>
     <loc>https://agenda21garching.github.io/categories/</loc>
   </url><url>
+    <loc>https://agenda21garching.github.io/datenundfakten/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/archive/dokumente/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/impressum/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/datenundfakten/photovoltaik/</loc>
+  </url><url>
     <loc>https://agenda21garching.github.io/tags/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/archive/veranstaltungen/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/datenundfakten/windkraft/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/ueberuns/</loc>
+  </url><url>
+    <loc>https://agenda21garching.github.io/datenundfakten/garching/</loc>
   </url>
 </urlset>
