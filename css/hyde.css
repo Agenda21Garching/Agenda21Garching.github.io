@@ -224,7 +224,7 @@ ul.posts li,
   ul.posts li,
   .sidebar nav li {
     font-size: inherit;
-    padding: 0;
+    padding: 0.25rem 0.0rem;
   }
 }
 
