@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktuelles on Agenda 21 Garching</title>
+    <link>https://agenda21garching.github.io/aktuell/</link>
+    <description>Recent content in Aktuelles on Agenda 21 Garching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© Philipp Bauer, created with hugo and github pages</copyright><atom:link href="https://agenda21garching.github.io/aktuell/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
