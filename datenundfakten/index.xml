@@ -13,7 +13,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agenda21garching.github.io/datenundfakten/photovoltaik/</guid>
-      <description>Seite befindet sich noch im Aufbau.</description>
+      <description>Kenngrößen PhotovoltaikDie installierte Leistung wird bei Photovoltaik in kWp (Kilowatt Peak) gemessen.</description>
+    </item>
+    
+    <item>
+      <title>Verbrauch in Garching</title>
+      <link>https://agenda21garching.github.io/datenundfakten/garching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/datenundfakten/garching/</guid>
+      <description>Eintrag wird noch erweitert!Laut dem Treibhausgasbericht des Landkreises hatte Garching 2020 einen Stromverbrauch von 288GWh.</description>
+    </item>
+    
+    <item>
+      <title>Weiterführende Links</title>
+      <link>https://agenda21garching.github.io/datenundfakten/linksammlung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agenda21garching.github.io/datenundfakten/linksammlung/</guid>
+      <description>Treibhausgasbericht des Landkreises</description>
     </item>
     
     <item>
@@ -26,11 +44,11 @@
     </item>
     
     <item>
-      <title>Übersicht zu Energieverbrauch und Energieproduktion in Garching</title>
-      <link>https://agenda21garching.github.io/datenundfakten/garching/</link>
+      <title>Wärme</title>
+      <link>https://agenda21garching.github.io/datenundfakten/w%C3%A4rme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agenda21garching.github.io/datenundfakten/garching/</guid>
+      <guid>https://agenda21garching.github.io/datenundfakten/w%C3%A4rme/</guid>
       <description>
 Seite befindet sich noch im Aufbau</description>
     </item>

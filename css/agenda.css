@@ -24,3 +24,44 @@
 .sub-menu li{
     margin-bottom: 0rem;
 }
+
+
+.item_with_picture{
+    max-width: 15rem;
+    margin: 1rem;
+    margin-left: 0;
+    margin-right: 2rem;
+    background-color: #009898;
+    display: inline-block;
+}
+
+.item_with_picture .item_picture{
+    width: 15rem;
+    height: 13rem;
+    background-color: white;
+}
+
+.item_with_picture .item_caption{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.item_with_picture a:link{
+    text-decoration: none;
+    color: black;
+}
+
+.item_with_picture a:visited { text-decoration: none; }
+.item_with_picture a:hover { text-decoration: none; color: white}
+.item_with_picture a:active { text-decoration: none; }
+
+.warning_box{
+    color: black;
+    width: fit-content;
+    padding:0.5rem;
+    border: 0.25rem solid red;
+}
+
+.picture{
+    max-width: 100%;
+}
