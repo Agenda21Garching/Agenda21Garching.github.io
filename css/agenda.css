@@ -51,7 +51,7 @@
     color: black;
 }
 
-.item_with_picture a:visited { text-decoration: none; }
+.item_with_picture a:visited { text-decoration: none; color: black }
 .item_with_picture a:hover { text-decoration: none; color: white}
 .item_with_picture a:active { text-decoration: none; }
 
@@ -64,4 +64,10 @@
 
 .picture{
     max-width: 100%;
+}
+
+.centering_style
+{
+    display: block;
+    text-align: center
 }
